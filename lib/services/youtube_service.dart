@@ -1,5 +1,7 @@
 import 'package:dio/dio.dart';
 
+import '../models/youtube_chat_model.dart';
+
 class YouTubeService {
   final String apiKey;
   YouTubeService({required this.apiKey});
@@ -18,15 +20,15 @@ class YouTubeService {
     }
   }
 
-  Future<Map<String, dynamic>> getLiveChatMessages(String liveChatId,
+  Future<YoutubeChatModel> getLiveChatMessages(String liveChatId,
       {String? pageToken}) async {
     final url =
         'https://www.googleapis.com/youtube/v3/liveChat/messages?liveChatId=$liveChatId&part=snippet,authorDetails&key=$apiKey${pageToken != null ? '&pageToken=$pageToken' : ''}';
-    final response = await dio.get(url);
+    Response<dynamic> response = await dio.get(url);
 
     if (response.statusCode == 200) {
       final data = response.data;
-      return data;
+      return YoutubeChatModel.fromJson(data);
     } else {
       throw Exception('Failed to get live chat messages');
     }

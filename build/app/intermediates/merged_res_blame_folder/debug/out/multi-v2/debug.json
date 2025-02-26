@@ -834,7 +834,7 @@
             "outputFile": "com.example.steaming_app_poc.app-merged_res-33:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -2098,6 +2098,25 @@
             "outputFile": "com.example.steaming_app_poc.app-merged_res-33:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,153,210,259,306,353,426,502",
+                        "endLines": "2,3,4,5,6,7,10,13,21",
+                        "endColumns": "46,50,56,48,46,46,12,12,12",
+                        "endOffsets": "97,148,205,254,301,348,421,497,949"
+                    },
+                    "to": {
+                        "startLines": "357,358,359,360,361,374,382,1468,1808",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "21406,21453,21504,21561,21610,22534,23147,92218,117927",
+                        "endLines": "357,358,359,360,361,374,384,1470,1815",
+                        "endColumns": "46,50,56,48,46,46,12,12,12",
+                        "endOffsets": "21448,21499,21556,21605,21652,22576,23215,92289,118374"
+                    }
+                },
+                {
                     "source": "/Users/piyawatsakdadet/.gradle/caches/transforms-3/40a45e686cd0e99ac2a33b1453f47939/transformed/jetified-savedstate-1.2.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -2129,6 +2148,25 @@
                         "startOffsets": "19113",
                         "endColumns": "49",
                         "endOffsets": "19158"
+                    }
+                },
+                {
+                    "source": "/Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "1471,1475",
+                        "startColumns": "4,4",
+                        "startOffsets": "92294,92475",
+                        "endLines": "1474,1477",
+                        "endColumns": "12,12",
+                        "endOffsets": "92470,92639"
                     }
                 },
                 {
@@ -2273,44 +2311,6 @@
                         "startOffsets": "3586,3644,3710,3773,12421,12492,22251,22319,22386,22465",
                         "endColumns": "57,65,62,61,70,71,67,66,78,68",
                         "endOffsets": "3639,3705,3768,3830,12487,12559,22314,22381,22460,22529"
-                    }
-                },
-                {
-                    "source": "/Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,11,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,102,153,210,259,306,353,426,502",
-                        "endLines": "2,3,4,5,6,7,10,13,21",
-                        "endColumns": "46,50,56,48,46,46,12,12,12",
-                        "endOffsets": "97,148,205,254,301,348,421,497,949"
-                    },
-                    "to": {
-                        "startLines": "357,358,359,360,361,374,382,1468,1808",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "21406,21453,21504,21561,21610,22534,23147,92218,117927",
-                        "endLines": "357,358,359,360,361,374,384,1470,1815",
-                        "endColumns": "46,50,56,48,46,46,12,12,12",
-                        "endOffsets": "21448,21499,21556,21605,21652,22576,23215,92289,118374"
-                    }
-                },
-                {
-                    "source": "/Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "1471,1475",
-                        "startColumns": "4,4",
-                        "startOffsets": "92294,92475",
-                        "endLines": "1474,1477",
-                        "endColumns": "12,12",
-                        "endOffsets": "92470,92639"
                     }
                 },
                 {

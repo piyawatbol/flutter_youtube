@@ -4,7 +4,7 @@
             "outputFile": "com.example.steaming_app_poc.app-mergeDebugResources-31:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

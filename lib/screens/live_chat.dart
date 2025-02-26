@@ -32,8 +32,8 @@ class LiveChatScreenState extends State<LiveChatScreen> {
       final response = await youtubeService!
           .getLiveChatMessages(liveChatId, pageToken: nextPageToken);
       setState(() {
-        messageList.addAll(response['items']);
-        nextPageToken = response['nextPageToken'];
+        // messageList.addAll(response['items']);
+        // nextPageToken = response['nextPageToken'];
       });
     });
   }
@@ -50,15 +50,19 @@ class LiveChatScreenState extends State<LiveChatScreen> {
       appBar: AppBar(
         title: Text('Live Chat Messages'),
       ),
-      body: ListView.builder(
-        itemCount: messageList.length,
-        itemBuilder: (context, index) {
-          final message = messageList[index];
-          return ListTile(
-            title: Text(message['snippet']['displayMessage']),
-            subtitle: Text(message['authorDetails']['displayName']),
-          );
-        },
+      body: Column(
+        children: [
+          ListView.builder(
+            itemCount: messageList.length,
+            itemBuilder: (context, index) {
+              final message = messageList[index];
+              return ListTile(
+                title: Text(message['snippet']['displayMessage']),
+                subtitle: Text(message['authorDetails']['displayName']),
+              );
+            },
+          ),
+        ],
       ),
     );
   }

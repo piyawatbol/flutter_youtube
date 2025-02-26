@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'screens/youtube_screen.dart';
+import 'package:steaming_app_poc/screens/youtube_and_chat_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -14,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: YoutubePlayerScreen(),
+      home: YouTubeAndChatScreen(),
     );
   }
 }

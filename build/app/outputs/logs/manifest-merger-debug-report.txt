@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:2:5-33:19
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-46:19
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-46:19
-MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
-MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-46:19
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-46:19
+MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
 MERGED from [androidx.window:window:1.2.0] /Users/piyawatsakdadet/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /Users/piyawatsakdadet/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/piyawatsakdadet/.gradle/caches/transforms-3/b54c8b34dc2cec64a7baaa02a8a7a5a3/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
@@ -21,20 +21,20 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/piyawatsakdadet/.gra
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/d21e37b6169caa7895fc002c1192b0f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/d21e37b6169caa7895fc002c1192b0f1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:1:1-45:12
-MERGED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-48:12
-MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [:webview_flutter_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-48:12
+MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:webview_flutter_android] /Users/piyawatsakdadet/project/flutter_youtube/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/9b797759c9b54ab0b27bb9b4753d9cda/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/f3e01c95a04b87be1a2f2ed87103c6d5/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.browser:browser:1.8.0] /Users/piyawatsakdadet/.gradle/caches/transforms-3/7f6d20225ac1174a3efad96609161b97/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
@@ -73,41 +73,41 @@ MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/piyawatsakdadet/
 MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/c1158440e5b75df6a72fbf32a08d003c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/piyawatsakdadet/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:1:11-69
 queries
-ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:39:5-44:15
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
+ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:39:5-44:15
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-11:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:40:9-43:18
+ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:40:9-43:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:41:13-72
+ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:41:21-70
+		ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:41:21-70
 data
-ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:42:13-50
+ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:42:13-50
 	android:mimeType
-		ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/main/AndroidManifest.xml:42:19-48
+		ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/main/AndroidManifest.xml:42:19-48
 uses-permission#android.permission.INTERNET
-ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-sdk
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:webview_flutter_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/piyawatsakdadet/project/flutter_youtube/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/piyawatsakdadet/project/flutter_youtube/build/webview_flutter_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/9b797759c9b54ab0b27bb9b4753d9cda/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/9b797759c9b54ab0b27bb9b4753d9cda/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/piyawatsakdadet/.gradle/caches/transforms-3/f3e01c95a04b87be1a2f2ed87103c6d5/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
@@ -183,83 +183,83 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/piyawatsa
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/piyawatsakdadet/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/piyawatsakdadet/.gradle/caches/transforms-3/84b17be5f49a910e04e8c35fea028f28/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/piyawatsakdadet/project/steaming_app_poc/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/piyawatsakdadet/project/flutter_youtube/android/app/src/debug/AndroidManifest.xml
 intent#action:name:android.support.customtabs.action.CustomTabsService
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-10:18
 action#android.support.customtabs.action.CustomTabsService
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-90
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-90
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-87
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:21-87
 activity#com.pichillilorenzo.flutter_inappwebview_android.in_app_browser.InAppBrowserActivity
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:47
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:47
 	android:exported
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-37
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-37
 	android:configChanges
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-137
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-137
 	android:theme
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-44
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-44
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-112
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-112
 activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivity
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-22:55
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-22:55
 	android:exported
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-52
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-52
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-120
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-120
 activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivity
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-26:55
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-26:55
 	android:exported
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-37
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-52
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-52
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-114
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-114
 activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:27:9-31:55
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:27:9-31:55
 	android:launchMode
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-48
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-48
 	android:exported
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-37
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-52
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-134
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-134
 activity#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.TrustedWebActivitySingleInstance
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-36:55
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:32:9-36:55
 	android:launchMode
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-48
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-48
 	android:exported
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-37
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-37
 	android:theme
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-52
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-52
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-128
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:33:13-128
 receiver#com.pichillilorenzo.flutter_inappwebview_android.chrome_custom_tabs.ActionBroadcastReceiver
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:38:9-41:40
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:38:9-41:40
 	android:enabled
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-35
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:40:13-35
 	android:exported
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-37
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-37
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-119
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-119
 meta-data#io.flutter.embedded_views_preview
-ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-45:36
+ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:43:9-45:36
 	android:value
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-33
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:45:13-33
 	android:name
-		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-61
+		ADDED from [:flutter_inappwebview_android] /Users/piyawatsakdadet/project/flutter_youtube/build/flutter_inappwebview_android/intermediates/merged_manifest/debug/AndroidManifest.xml:44:13-61
 activity#io.flutter.plugins.urllauncher.WebViewActivity
-ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-11:74
+ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-11:74
 	android:exported
-		ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-37
+		ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-37
 	android:theme
-		ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-71
+		ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-71
 	android:name
-		ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/steaming_app_poc/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-74
+		ADDED from [:url_launcher_android] /Users/piyawatsakdadet/project/flutter_youtube/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-74
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/piyawatsakdadet/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required
