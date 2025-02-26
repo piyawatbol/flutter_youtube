@@ -93,23 +93,44 @@ class YouTubeAndChatScreen extends GetView<YoutubeAndChatController> {
                     ? Center(
                         child: CircularProgressIndicator(),
                       )
-                    : ListView.builder(
-                        itemCount: controller.messageList.length,
-                        itemBuilder: (context, index) {
-                          Item message = controller.messageList[index];
-                          return Container(
-                            color: Colors.white,
-                            child: ListTile(
-                              leading: CircleAvatar(
-                                backgroundImage: NetworkImage(
-                                  message.authorDetails.profileImageUrl,
+                    : Stack(
+                        children: [
+                          ListView.builder(
+                            itemCount: controller.messageList.length,
+                            itemBuilder: (context, index) {
+                              Item message = controller.messageList[index];
+                              return Container(
+                                color: Colors.white,
+                                child: ListTile(
+                                  leading: CircleAvatar(
+                                    backgroundImage: NetworkImage(
+                                      message.authorDetails.profileImageUrl,
+                                    ),
+                                  ),
+                                  title:
+                                      Text(message.authorDetails.displayName),
+                                  subtitle:
+                                      Text(message.snippet.displayMessage),
                                 ),
+                              );
+                            },
+                          ),
+                          Align(
+                            alignment: Alignment.bottomCenter,
+                            child: Container(
+                              height: 80,
+                              color: Colors.grey.shade200,
+                              child: Row(
+                                mainAxisAlignment: MainAxisAlignment.center,
+                                children: [
+                                  Text('New message'),
+                                  SizedBox(width: 10),
+                                  Icon(Icons.arrow_downward),
+                                ],
                               ),
-                              title: Text(message.authorDetails.displayName),
-                              subtitle: Text(message.snippet.displayMessage),
                             ),
-                          );
-                        },
+                          )
+                        ],
                       ),
               ),
             ],

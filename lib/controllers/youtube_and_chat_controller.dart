@@ -1,5 +1,4 @@
 import 'dart:async';
-import 'dart:developer';
 
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
@@ -82,13 +81,9 @@ class YoutubeAndChatController extends GetxController {
   onTouch() {
     timer?.cancel();
     isTouch.value = !isTouch.value;
-    isTouch.refresh();
-    log(isTouch.value.toString());
-
     timer = Timer(Duration(seconds: 3), () {
       isTouch.value = false;
       timer!.cancel();
-      log(isTouch.value.toString());
     });
   }
 }
